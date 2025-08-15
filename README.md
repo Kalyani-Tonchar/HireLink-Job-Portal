@@ -18,10 +18,16 @@ For Job Seekers
 -Job recommendations
 
 For Employers
-Company profile management
-Job posting and management
-Applicant tracking
-Candidate search and filtering
+
+-Company profile management
+
+-Job posting and management
+
+-Applicant tracking
+
+-Candidate search and filtering
+
+
 Interview scheduling
 🛠️ Tech Stack
 Backend
