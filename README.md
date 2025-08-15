@@ -1,3 +1,63 @@
+HireLink - Job Portal Application
+A full-stack job portal application built with Spring Boot (Backend) and React (Frontend).
+
+🚀 Features
+For Job Seekers
+User registration and authentication
+Job search and filtering
+Job application submission
+Profile management with resume upload
+Application tracking
+Job recommendations
+For Employers
+Company profile management
+Job posting and management
+Applicant tracking
+Candidate search and filtering
+Interview scheduling
+🛠️ Tech Stack
+Backend
+Spring Boot 3.3.2 - Main framework
+Spring Security - Authentication and authorization
+Spring Data MongoDB - Database operations
+JWT - Token-based authentication
+MongoDB - NoSQL database
+Maven - Build tool
+Frontend
+React 18 - UI framework
+TypeScript - Type safety
+Tailwind CSS - Styling
+Redux Toolkit - State management
+Axios - HTTP client
+React Router - Navigation
+📋 Prerequisites
+Java 17 or higher
+Node.js 16 or higher
+MongoDB 4.4 or higher
+Maven 3.6 or higher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
