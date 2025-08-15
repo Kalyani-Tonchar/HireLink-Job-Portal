@@ -5,13 +5,18 @@ A full-stack job portal application built with Spring Boot (Backend) and React (
 🚀 Features
 For Job Seekers
 
-User registration and authentication
+-User registration and authentication
 
-Job search and filtering
-Job application submission
-Profile management with resume upload
-Application tracking
-Job recommendations
+-Job search and filtering\
+
+-Job application submission
+
+-Profile management with resume upload
+
+-Application tracking
+
+-Job recommendations
+
 For Employers
 Company profile management
 Job posting and management
