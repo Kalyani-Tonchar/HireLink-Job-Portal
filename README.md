@@ -1,9 +1,12 @@
 HireLink - Job Portal Application
+
 A full-stack job portal application built with Spring Boot (Backend) and React (Frontend).
 
 🚀 Features
 For Job Seekers
+
 User registration and authentication
+
 Job search and filtering
 Job application submission
 Profile management with resume upload
